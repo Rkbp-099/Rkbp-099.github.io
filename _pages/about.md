@@ -25,12 +25,12 @@ redirect_from:
 
 # Experience
 
-**[Enstructure]** : _Data Scientist - Full Stack (Nov'23-*)_
+**[Enstructure](https://www.enstructure.net)** : _Data Scientist - Full Stack (Nov'23-*)_
   * Engineered an end-to-end data pipeline for a Real Estate client leveraging AWS Glue, incorporating custom Lambda triggers
   * Elevated decision-making with automated dashboards on AWS Quicksight, providing dynamic insights into critical metrics
 
 
-**[Trinet]** : _Product Data Scientist (Jun'23-Oct'23)_
+**[Trinet](https://www.trinet.com/)** : _Product Data Scientist (Jun'23-Oct'23)_
   * Led cross-functional collaboration to optimize RISK-NAICS code assignment, integrate classification models, reduce manual processing time by 25%, and achieve a 30% increase in client acquisition through refined risk 
     evaluation accuracy for dynamic pricing of healthcare insurance
   * Leveraged BERT-based NLP embeddings and topic modeling to analyze and classify customer support tickets, identifying critical factors driving customer attrition
