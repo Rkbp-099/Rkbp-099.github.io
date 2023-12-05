@@ -9,12 +9,15 @@ redirect_from:
 ---
 
 <br>Hi there, I'm Saurabh. <br>
+<br>Here's my profile description: <br>
 
-I am a seasoned Analytics and Data Science professional with 3 years of experience in the industry. My expertise spans across Machine Learning, Deep Learning, MLOps Statistical Modeling, Reporting, Data Visualization and Data Wrangling. I’ve delivered impactful results for clients in various sectors like Banking and Insurance, to name a few. Additionally, I have experience in Bigdata Analytics, as I worked for Corridor Platforms (an EXL Service Company) to transfer SAS models for a large US bank to PySpark with 99.9% accuracy.
-
-I hold a B.Tech in Computer Science Engineering and am currently pursuing MS in Business Analytics from UT Austin - McCombs School of Business. My curriculum includes cutting-edge courses like Deep Learning, Advance Machine Learning, Optimimzation, Unsupervised Learning, Demand/Pricing Analytics, and Social Media Analytics and a capstone project with Microsoft. With skills in Python, SQL, tableau, Java, Pytorch and more, I’m eager to take on challenging Data Science and Analytics projects. 
-
-I am now seeking full-time opportunities in this field.
+• Skilled Data Scientist with 5+ years of experience in Data Extraction, Data Modelling, Data Wrangling, Statistical Modeling, Data Mining, Natural Language Processing, Machine Learning, and Data Visualization.
+• Track record of driving business growth through data-driven strategies.
+• Expertise in A/B testing, recommendation systems, and user engagement, resulting in a 15% increase in footwear trades and 20% higher user engagement.
+• Proficient in Python, AWS, SQL, and Docker, with a background in data analysis, statistical modeling, and manipulation using R.
+• Reduced operational costs by 30% and improved system reliability by 40% through AWS infrastructure design and deployment.
+• Experienced in ETL processes, Kubernetes, CI/CD pipelines, and container orchestration for efficient data management and deployment.
+• Recognized for leading impactful credit card marketing campaigns, achieving a 16% increase in open rates, and contributing to a $3 million reduction in fraud losses in the first year for a prominent US banking client.
 
 <br>
 
@@ -22,11 +25,23 @@ I am now seeking full-time opportunities in this field.
 
 # Experience
 
-**[Tradeblock](https://www.tradeblock.us/)** : _Graduate Capstone Project - Data Science (Jan'23-Present)_
-  * Graduate Capstone as a part of UT Austin's MS Business Analytics Program Curriculum
-  * Building a recommendation system to improve user to user and item to user interactions to increase overall trades
-  * Performing association mining and content based collaborative filtering to yield better recommendations
-  * Targeting to grow the current user engagement on the app by 20000 users/day and total trades by 15% by 2024
+**[Enstructure]** : _Data Scientist - Full Stack (Nov'23-*)_
+  * Engineered an end-to-end data pipeline for a Real Estate client leveraging AWS Glue, incorporating custom Lambda triggers
+  * Elevated decision-making with automated dashboards on AWS Quicksight, providing dynamic insights into critical metrics
+
+
+**[Trinet]** : _Product Data Scientist (Jun'23-Oct'23)_
+  * Led cross-functional collaboration to optimize RISK-NAICS code assignment, integrate classification models, reduce manual processing time by 25%, and achieve a 30% increase in client acquisition through refined risk 
+    evaluation accuracy for dynamic pricing of healthcare insurance
+  * Leveraged BERT-based NLP embeddings and topic modeling to analyze and classify customer support tickets, identifying critical factors driving customer attrition
+  * Integrated Salesforce with external systems using web services and APIs, improving data accuracy by 40% and reducing data entry errors by 50%
+
+
+**[Tradeblock](https://www.tradeblock.us/)** : _Graduate Capstone Project - Data Science (Jan'23-May'23)_
+  * Achieved a notable 15% increase in footwear trades and 20% higher user engagement through Python-based A/B testing and custom recommendation systems, all while maintaining 98% of the original variance with PCA.
+  * Managed Docker deployment, integrated AWS services with on-premise resources for an 8% cost reduction, optimized ETL processes, and skillfully utilized Kubernetes for container orchestration.
+  * Skills: Pattern Recognition · Statistical Modeling · A/B Testing · Amazon Web Services (AWS) · Data Science
+
 
 **[EXL Service](https://www.exlservice.com/)** : _Data Scientist (Aug'19-Apr'22)_
   * Led a 6-member model development team to predict Gross Credit Loss for a fortune-100 US bank with 98% accuracy
