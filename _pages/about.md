@@ -11,7 +11,14 @@ redirect_from:
 <br>Hi there, I'm Raktim. <br>
 <br>Here's my profile description: <br>
 
-• Yet to write
+ - Passionate software engineer with 2+ years of experience in developing innovative solutions and delivering high-quality products.
+ - Proficient in JavaScript, C#, ASP.NET, TSQL, and PowerShell, with a strong focus on writing efficient and optimized code.
+ - Skilled in implementing automated testing and monitoring systems, resulting in improved system availability and reduced downtime.
+ - Experienced in designing and implementing distributed architectures using technologies like Kafka, enhancing application efficiency.
+ - Adept at analyzing and resolving customer-reported issues, leading to increased customer satisfaction and retention rates.
+ - Proven ability to work collaboratively with cross-functional teams, contributing to successful product launches and customer onboarding.
+ - Committed to continuous learning and staying up-to-date with the latest industry trends and best practices.
+
 
 <br>
 
