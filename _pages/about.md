@@ -8,16 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<br>Hi there, I'm Saurabh. <br>
+<br>Hi there, I'm Raktim. <br>
 <br>Here's my profile description: <br>
 
-• Skilled Data Scientist with 5+ years of experience in Data Extraction, Data Modelling, Data Wrangling, Statistical Modeling, Data Mining, Natural Language Processing, Machine Learning, and Data Visualization.
-• Track record of driving business growth through data-driven strategies.
-• Expertise in A/B testing, recommendation systems, and user engagement, resulting in a 15% increase in footwear trades and 20% higher user engagement.
-• Proficient in Python, AWS, SQL, and Docker, with a background in data analysis, statistical modeling, and manipulation using R.
-• Reduced operational costs by 30% and improved system reliability by 40% through AWS infrastructure design and deployment.
-• Experienced in ETL processes, Kubernetes, CI/CD pipelines, and container orchestration for efficient data management and deployment.
-• Recognized for leading impactful credit card marketing campaigns, achieving a 16% increase in open rates, and contributing to a $3 million reduction in fraud losses in the first year for a prominent US banking client.
+• Yet to write
 
 <br>
 
@@ -25,37 +19,25 @@ redirect_from:
 
 # Experience
 
-**[Enstructure](https://www.enstructure.net)** : _Data Scientist - Full Stack (Nov'23-*)_
-  * Engineered an end-to-end data pipeline for a Real Estate client leveraging AWS Glue, incorporating custom Lambda triggers
-  * Elevated decision-making with automated dashboards on AWS Quicksight, providing dynamic insights into critical metrics
+**[Salesforce](https://www.salesforce.com/)** : _Software Engineer (Jul'22-*)_
+  * Implemented automated real-time health checks and alerts for our services using Kaiju tests and argus alerts resulting in a 30% reduction in system downtime and improved overall system availability.
+  * Reduced the number of customer-reported bugs by 25%, leading to improved customer satisfaction scores and higher retention rates
+  * Implemented new feature for remote powershell usecase. Successfully onboarded and integrated 2 new customers for our product expanding the user base and driving business growth. Wrote powershell scripts to connect to IP address provided, remotely.
+  * Designed and implemented support for stack based runbook execution for our automated event mitigation system. Successfully onboarded and integrated 5 new customers for our product. This saved 2.6K hours of developer time per year and approx 70% reduction in time to mitigate any production events.
+  * Designed and Implemented distributed architecture of automated event mitigation system by using kafka which improved efficiency by 10%
+  * Wrote integration tests for 3 of our MCN services - GUS, RBAC and Config to check if our services are functional and working properly post deployment. As these tests are run in a fully automated fashion as part of the deployment spinnaker pipeline, it saved approx 1hr of developer time per deployment.
 
 
-**[Trinet](https://www.trinet.com/)** : _Product Data Scientist (Jun'23-Oct'23)_
-  * Led cross-functional collaboration to optimize RISK-NAICS code assignment, integrate classification models, reduce manual processing time by 25%, and achieve a 30% increase in client acquisition through refined risk 
-    evaluation accuracy for dynamic pricing of healthcare insurance
-  * Leveraged BERT-based NLP embeddings and topic modeling to analyze and classify customer support tickets, identifying critical factors driving customer attrition
-  * Integrated Salesforce with external systems using web services and APIs, improving data accuracy by 40% and reducing data entry errors by 50%
-
-
-**[Tradeblock](https://www.tradeblock.us/)** : _Graduate Capstone Project - Data Science (Jan'23-May'23)_
-  * Achieved a notable 15% increase in footwear trades and 20% higher user engagement through Python-based A/B testing and custom recommendation systems, all while maintaining 98% of the original variance with PCA.
-  * Managed Docker deployment, integrated AWS services with on-premise resources for an 8% cost reduction, optimized ETL processes, and skillfully utilized Kubernetes for container orchestration.
-  * Skills: Pattern Recognition · Statistical Modeling · A/B Testing · Amazon Web Services (AWS) · Data Science
-
-
-**[EXL Service](https://www.exlservice.com/)** : _Data Scientist (Aug'19-Apr'22)_
-  * Led a 6-member model development team to predict Gross Credit Loss for a fortune-100 US bank with 98% accuracy
-  * Deployed credit card cross selling model using K-Means customer segmentation, enabling the client run targeted promotions
-  * Created a credit card fraud detection model, using Logistic Regression, for a leading US banking client, helped in reducing fraud losses by 3 million USD during the first year of its deployment
-  * Implemented a Decision Tree algorithm with hyperparameter tuning, helped to reduce customer churn rate by over 40%
-  * Performed regression on the customer data to evaluate credit refinement, leading to a decrease in Net Credit Loss by over 6%
-  * Designed and optimized Data Warehousing Architecture for a US based bank which led to a reduction in query time by 15%    
-
-
+**[Salesforce](https://www.salesforce.com/)** : _Software Engineer Intern (Jan'22-Jun'22)_
+  * Created a download button which helps the user to download the results for each runbook execution
+  * Created runbook Audit reports. It helps the user to view run history of other runbooks.The user can see necessary details like - execution time, Notified time, DB affected and name of the user who executed that runbook. Wrote efficient SQL queries to fetch these data from database.
+  * Created runbook SRMS Usage which helps the user get the count of runbook executions, command executions, alerts mitigated manually or by AEMS. Wrote optimized SQL queries to fetch these data from database.
+  * Technologies used: Javascript, C-sharp, ASP.NET, TSQL
+ 
 
 <br>
 ---
-# [Projects](https://sau97.github.io/markdown/) 
+# [Projects](https://rkbp-099.github.io/markdown/) 
 
-Please click on the Headline to be redirected to my Portfolio Page. You can also [click here](https://sau97.github.io/markdown/)
+Please click on the Headline to be redirected to my Portfolio Page. You can also [click here](https://rkbp-099.github.io/markdown/)
 
