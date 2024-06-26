@@ -8,20 +8,21 @@ redirect_from:
 ---
 <br>
 
-**Surveillance Alert System based on Image Captioning using Deep Learning Approaches**
+**Classification of Animal Species Using Transfer Learning**
 
-In the field of image analytics, semantic segmentation can determine the objects in an image, but fails to explain the relationship between these objects. Automatic caption generation can help to identify these events and be used to alert users to take action. Our team tackled this challenge by implementing an Image Captioning system using CNN-LSTM architecture and compared results with GPT2-generated captions. The training dataset was from Kaggle and contained 8092 images from Flickr with 5 captions as the target label. To address the lack of surveillance-related images, we manually added 568 surveillance images and captions. The resulting Image Captioning model generated captions that were used to send alerts to stakeholders if the captions contained red-flag words.
+The project aims to develop an efficient image classifier for accurately identifying and predicting animal species from images, utilizing advanced machine learning techniques, specifically convolutional neural networks (CNNs). This initiative is driven by the need to enhance wildlife monitoring and conservation efforts, which are currently hampered by manual, time-consuming species identification processes. By automating this task, the project aims to facilitate better monitoring of animal migration patterns and habitat usage, leading to more effective conservation strategies. The approach involves comprehensive image preprocessing, including resizing, grayscale conversion, and cropping to focus on the animals. Data augmentation techniques, such as rotation and flipping, are employed to expand the dataset. The project leverages pre-trained CNN architectures, namely VGG-16, ResNet50, and Inceptionv3, and uses transfer learning to fine-tune these models on the Animals-10 dataset from Kaggle, which contains images of ten different animal species. This dataset's diversity and quality enhance the model's ability to generalize across different contexts. The final model demonstrates high accuracy, aroung 97.81%, in species classification, showcasing the potential of these advanced techniques in revolutionizing wildlife monitoring by providing a robust tool for automated species recognition, thereby supporting ecological research and conservation efforts effectively.
 
-[Code](https://github.com/sau97/Surveillance-Alert-System)
-| [Medium Article](https://medium.com/@saurabh.arora_80184/image-captioning-based-surveillance-alert-system-6f8c81c4a18e)
+[Code](https://github.com/Rkbp-099/Classification-of-Animal-Species-Using-Transfer-Learning)
+| [Report](https://github.com/Rkbp-099/Classification-of-Animal-Species-Using-Transfer-Learning/blob/main/Report.pdf)
 
 ---
 
-**Enhaced Trip Advisor Recommendation System**
+**Distributed Recommendation System**
 
-This was my final project during my Fall semester at UT Austin for my Analytics for Unstructured Data course. We scraped 4000 reviews and descriptions using Selenium off the Trip Advisor Website for 400 destinations across the globe. We calculated the similarity between the reviews and descriptions provided by the business owners/tripadvisor. Then we performed the sentiment analysis on the reviews and provided more accurate descriptions using topic modeling. The tools used included Selenium, spaCy, Vader, and NLTK.
+The project focuses on developing a recommender system that integrates both user ratings and reviews for making more accurate and scalable recommendations. This is motivated by the increasing need for effective data handling in e-commerce and big data contexts, where traditional recommendation methods struggle with large volumes of diverse data. The system employs various advanced techniques, including collaborative filtering and sentiment analysis, and utilizes distributed computing for efficient processing. Specifically, it integrates methods like Alternating Least Squares (ALS) for matrix factorization and applies sentiment analysis using word embeddings and natural language processing (NLP) techniques. The architecture includes a combination of content-based filtering and collaborative filtering to enhance recommendation accuracy. The dataset used is the Amazon Review Dataset from 2018, containing 233.1 million reviews across various product categories, providing comprehensive user feedback in the form of ratings and detailed reviews. The final results demonstrate the system's improved performance in recommendation accuracy, surpassing traditional models by effectively utilizing both numerical ratings and textual review data. We got an average RMSE score of < 1 considering multiple datasets. This hybrid approach, coupled with sentiment analysis, allows for more personalized and precise recommendations, catering to the nuanced preferences of users.
 
-[Code & Report](https://github.com/sau97/Trip-Advisor-Recommender-System)
+[Code](https://github.com/Rkbp-099/Distributed-Recommedation-System)
+| [Report](https://github.com/Rkbp-099/Distributed-Recommedation-System/blob/main/Report.pdf)
 
 ---
 
