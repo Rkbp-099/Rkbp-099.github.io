@@ -44,3 +44,21 @@ This project focuses on text summarization, exploring both extractive and abstra
 | [Report](https://github.com/Rkbp-099/Text-Summarizer/blob/main/Text%20summary%20generator%20ppt.pdf)
 
 ---
+
+**End to End Chat web application**
+
+This real-time group chat application offers a seamless and interactive communication experience for users seeking to collaborate or socialize in virtual rooms. By leveraging the power of Node.js and Socket.io, the application provides instant message delivery and real-time updates, ensuring that all participants stay synchronized. The unique feature of location sharing adds a practical dimension to the chat, making it useful for coordinating meetups or sharing whereabouts with friends and colleagues. With its user-friendly approach to group creation and joining, coupled with the ability to see active participants, this application stands out as a versatile tool for both casual and professional group interactions in our increasingly connected world
+
+[Code](https://github.com/Rkbp-099/End-to-End-Chat-Web-Application)
+| [Demo](https://github.com/Rkbp-099/End-to-End-Chat-Web-Application/blob/master/README.md)
+
+---
+
+**ScribbleHive**
+
+This blog platform is a CRUD web application that allows users to create, read, update, and delete blog posts and articles. Built with Python and Node.js using the Express framework, the application uses MongoDB for data storage. User authentication is implemented with JSON Web Tokens (JWT), and bcryptjs hashes user passwords. The platform includes user signup, login, and profile management, along with functions for posting and editing blogs. This combination of technologies creates an environment for content creators and readers, enabling a community where ideas can be shared. The application can be used for personal blogging, professional articles, or collaborative writing projects.
+
+[Code](https://github.com/Rkbp-099/ScribbleHive)
+| [Demo](https://github.com/Rkbp-099/ScribbleHive/blob/master/README.md)
+
+---
